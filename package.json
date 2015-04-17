@@ -33,5 +33,6 @@
     "coveralls": "^2.11.2",
     "istanbul": "^0.3.4",
     "mocha-lcov-reporter": "0.0.1"
-  }
+  },
+  "browser": "./lib/empty-for-browser.js"
 }
